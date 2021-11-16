@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/markus-wa/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/markuswa_)
 
-I'm a Backend & Cloud Engineer from Switzerland 🇨🇭, currently based in the UK 🇬🇧 (Bristol).<br>
+I'm a Freelance Backend & Cloud Engineer from Switzerland 🇨🇭, currently based in the UK 🇬🇧 (Bristol).<br>
 During the day I run Saikō Technology ([@saiko-tech](https://github.com/saiko-tech)), a software consultancy focused on eSports & backend systems.<br>
 At night I like to tinker with various things like [audio-visuals](https://github.com/markus-wa/av-clj) and building open source tooling.
 
