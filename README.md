@@ -11,7 +11,7 @@ At night I like to tinker with various things like [audio-visuals](https://githu
 - 🔭 I’m currently working on **top secret stuff!** - but check out my previous work on [my resume](https://markwalther.ch/resume-clj/)
 - 🌱 I’m currently learning **Pulumi**
 - 💖 I love **Clojure** - and functional programming in general
-- 👯 I’m looking to collaborate on **CS:GO ray tracing for demos**
+- 👯 I’m looking to collaborate on **game-data visualisation (frontend)**
 - 💬 Ask me about **eSports data pipelines & backend systems** - or anything else, really!
 - 📫 How to reach me: **[mark@saiko.tech](mailto:mark@saiko.tech)**
 
