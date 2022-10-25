@@ -18,6 +18,6 @@ At night I like to tinker with various things like [audio-visuals](https://githu
 - 📫 How to reach me: **[mark@saiko.tech](mailto:mark@saiko.tech)**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markus-wa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&exclude_repo=demoinfocs-golang-vendor,cs-demo-minifier-vendor" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markus-wa&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&exclude_repo=demoinfocs-golang-vendor,cs-demo-minifier-vendor" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markus-wa&exclude_repo=demoinfocs-golang,cs-demo-minifier,demoinfocs-golang-vendor,cs-demo-minifier-vendor,ObjectOrientedDB&hide=Shell&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
