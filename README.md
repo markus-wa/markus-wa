@@ -11,10 +11,10 @@ During the day I run Saikō Technology ([saiko.tech](https://saiko.tech/) / [@sa
 At night I like to tinker with various things like [audio-visuals](https://github.com/markus-wa/av-clj) and building open source tooling.
 
 - 🔭 I’m currently working on **top secret stuff!** - but check out my previous work on [my resume](https://markwalther.ch/resume-clj/)
-- 🌱 I’m currently learning **Pulumi**
+- 🌱 I’m currently learning **Svelte**
 - 💖 I love **Clojure** - and functional programming in general
 - 👯 I’m looking to collaborate on **game-data visualisation (frontend)**
-- 💬 Ask me about **eSports, data pipelines & backend systems** - or anything else, really!
+- 💬 Ask me about **backend systems, data pipelines & eSports** - or anything else, really!
 - 📫 How to reach me: **[mark@saiko.tech](mailto:mark@saiko.tech)**
 
 <p>
