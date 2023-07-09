@@ -10,11 +10,11 @@ I'm a Freelance Backend & Cloud Engineer from Switzerland 🇨🇭, currently ba
 During the day I run Saikō Technology ([saiko.tech](https://saiko.tech/) / [@saiko-tech](https://github.com/saiko-tech)), a software consultancy focused on eSports & backend systems.<br>
 At night I like to tinker with various things like [audio-visuals](https://github.com/markus-wa/av-clj) and building open source tooling.
 
-- 🔭 I’m currently working on **@esportalgroup** Infrastructure, API & Backend - check out my previous work on [my resume](https://markwalther.ch/resume-clj/)
-- 🌱 I’m currently learning **GraphQL**
+- 🔭 I’m currently working on **@esportalgroup** Infrastructure, API & Backend
 - 💖 I love **Clojure** - and functional programming in general
 - 👯 I’m looking to collaborate on **game-data visualisation (frontend)**
 - 💬 Ask me about **backend systems, data pipelines & eSports** - or anything else, really!
+- 📰 Check out my previous work on [my resume](https://markwalther.ch/resume-clj/)
 - 📫 How to reach me: **[mark@saiko.tech](mailto:mark@saiko.tech)**
 
 <p>
