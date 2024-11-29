@@ -11,7 +11,7 @@ At night I like to tinker with various things like [modular video synths](https:
 - 🔭 I’m currently working on [@esportalgroup](https://github.com/esportalgroup) & [@PGL-ESPORTS](https://github.com/PGL-ESPORTS) Infrastructure, APIs & Backend
 - 💖 I love **Clojure** - and functional programming in general
 - 👯 I’m looking to collaborate on **modular video synths & audio-visuals**
-- 💬 Ask me about **backend systems, data pipelines, eSports, modular video synths & audio-visuals** - or anything else, really!
+- 💬 Ask me about **backend systems, data pipelines & eSports** - or anything else, really!
 - 📰 Check out my previous work on [my resume](https://markwalther.ch/resume-clj/)
 - 📫 How to reach me: **[mark@saiko.tech](mailto:mark@saiko.tech)**
 
