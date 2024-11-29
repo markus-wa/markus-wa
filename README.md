@@ -13,7 +13,7 @@ At night I like to tinker with various things like [modular video synths](https:
 - 👯 I’m looking to collaborate on **modular video synths & audio-visuals**
 - 💬 Ask me about **backend systems, data pipelines & eSports** - or anything else, really!
 - 📰 Check out my previous work on [my resume](https://markwalther.ch/resume-clj/)
-- 📫 How to reach me: **[mark@saiko.tech](mailto:mark@saiko.tech)**
+- 📫 How to reach me: **[markus@saiko.tech](mailto:markus@saiko.tech)**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markus-wa&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&exclude_repo=demoinfocs-golang-vendor,cs-demo-minifier-vendor" />
