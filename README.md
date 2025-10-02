@@ -8,12 +8,20 @@ I'm a Freelance Backend & Cloud Engineer from Switzerland 🇨🇭, currently ba
 During the day I run Saikō Technology ([saiko.tech](https://saiko.tech/) / [@saiko-tech](https://github.com/saiko-tech)), a software consultancy focused on eSports & backend systems.<br>
 At night I like to tinker with various things like [modular video synths](https://github.com/markus-wa/modular) & [audio-visuals](https://github.com/markus-wa/av-clj) and building open source tooling.
 
+#### About Me
+
 - 🔭 I’m currently working on [@esportalgroup](https://github.com/esportalgroup) & [@PGL-ESPORTS](https://github.com/PGL-ESPORTS) Infrastructure, APIs & Backend
 - 💖 I love **Clojure** - and functional programming in general
 - 👯 I’m looking to collaborate on **modular video synths & audio-visuals**
 - 💬 Ask me about **backend systems, data pipelines & eSports** - or anything else, really!
 - 📰 Check out my previous work on [my resume](https://markwalther.ch/resume-clj/)
 - 📫 How to reach me: **[markus@saiko.tech](mailto:markus@saiko.tech)**
+
+#### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=clojure,go,html,css,ts,gcp,aws,cloudflare,react,docker,postgres,linux)](https://skillicons.dev)
+
+#### Stats
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markus-wa&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&exclude_repo=demoinfocs-golang-vendor,cs-demo-minifier-vendor" />
